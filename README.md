@@ -6,7 +6,7 @@ An ongoing project to create a complete Square Shiny PokeDex for Generation 8 an
 * All possible shiny forms of Alcremie
 * Meltan/Melmetal
 * All available Galar Forms from previous generations (as of 02/22/2020)
-* All available Gigantamax Pokemon from previous generations (as of 02/22/2020) **NOTE: (Pikachu, Meowth, and Eevee currently cannot be shiny)**
+* All available Gigantamax Pokemon from previous generations (as of 02/22/2020) **NOTE: (Pikachu, Meowth, and Eevee are currently being obtained, will be added very soon!)**
 * Pokeball Plus Mew (currently not possible to obtain shiny)
 
 # Contributors:
