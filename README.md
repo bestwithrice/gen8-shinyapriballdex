@@ -2,7 +2,7 @@
 An ongoing project to create a complete Square Shiny PokeDex for Generation 8 and Generation 8 events (+ Let's Go events)
 
 # What's inside the PokeDex:
-* Pokemon #810-890 (Grookey -- Eternatus)
+* Pokemon #810-892 (Grookey -- Urshifu)
 * All possible shiny forms of Alcremie
 * Meltan/Melmetal
 * All available Galar Forms from previous generations (as of 06/05/2020)
