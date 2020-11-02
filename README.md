@@ -2,11 +2,11 @@
 An ongoing project to create a complete Square Shiny PokeDex for Generation 8 and Generation 8 events (+ Let's Go events)
 
 # What's inside the PokeDex:
-* Pokemon #810-892 (Grookey -- Urshifu)
+* Pokemon #810-898 (Grookey -- Calyrex)
 * All possible shiny forms of Alcremie
 * Meltan/Melmetal
-* All available Galar Forms from previous generations (as of 06/05/2020)
-* All available Gigantamax Pokemon from previous generations (as of 06/05/2020)
+* All available Galar Forms from previous generations (as of 11/02/2020)
+* Most available Gigantamax Pokemon from previous generations (as of 11/02/2020)
 * Pokeball Plus Mew (currently not possible to obtain shiny)
 
 # Contributors:
