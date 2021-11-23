@@ -5,8 +5,8 @@ An ongoing project to create a complete Square Shiny PokeDex for Generation 8 an
 * Pokemon #810-898 (Grookey -- Calyrex)
 * All possible shiny forms of Alcremie
 * Meltan/Melmetal
-* All available Galar Forms from previous generations (as of 11/02/2020)
-* Most available Gigantamax Pokemon from previous generations (as of 11/02/2020)
+* All available Galar Forms from previous generations (as of 11/22/2021)
+* Most available Gigantamax Pokemon from previous generations (as of 11/22/2021)
 * Pokeball Plus Mew (currently not possible to obtain shiny)
 
 # Contributors:
