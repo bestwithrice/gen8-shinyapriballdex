@@ -1,5 +1,5 @@
 # gen8-shinyapriballdex
-An ongoing project to create a complete Square Shiny PokeDex for Generation 8 and Generation 8 events (+ Let's Go events)
+A completed project to create a complete Square Shiny PokeDex for Generation 8 and Generation 8 events (+ Let's Go events)
 
 # What's inside the PokeDex:
 * Pokemon #810-898 (Grookey -- Calyrex)
